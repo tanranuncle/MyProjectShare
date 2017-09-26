@@ -7,5 +7,4 @@
 然后进行自动阅卷，并给出分数，还能够计算出各个科目的平均分，并绘制统计图来显示其百分比。
 3. [秘钥容器排序](https://github.com/tanranuncle/MyProjectShare/tree/master/3.%E7%A7%98%E9%92%A5%E5%AE%B9%E5%99%A8%E6%8E%92%E5%BA%8F)  
 根据秘钥的复杂度进行排序。
-4. [SSH_Demo](https://github.com/tanranuncle/MyProjectShare/tree/master/4.SSH_Demo)  
-一个简单的Struts2、Spring、Hibernate三大框架整合的Demo，并用一个简单的用户登录业务进行演示。
+
