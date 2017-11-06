@@ -7,5 +7,6 @@
 然后进行自动阅卷，并给出分数，还能够计算出各个科目的平均分，并绘制统计图来显示其百分比。
 3. [秘钥容器排序](https://github.com/tanranuncle/MyProjectShare/tree/master/3.%E7%A7%98%E9%92%A5%E5%AE%B9%E5%99%A8%E6%8E%92%E5%BA%8F)  
 根据秘钥的复杂度进行排序。  
-4. [简单的图片验证码识别](https://github.com/tanranuncle/MyProjectShare/tree/master/4.ImgOCR)
+4. [简单的图片验证码识别](https://github.com/tanranuncle/MyProjectShare/tree/master/4.ImgOCR)  
+使用tess4j进行简单的图像识别，可识别简单的数字+字母验证码（内附训练数据集，详情参照我的博客[《简单的图片验证码识别》](http://blog.mwxu16.cn/2017/10/16/%E7%AE%80%E5%8D%95%E7%9A%84%E5%9B%BE%E7%89%87%E9%AA%8C%E8%AF%81%E7%A0%81%E8%AF%86%E5%88%AB/)）
 
